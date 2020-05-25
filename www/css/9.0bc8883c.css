@@ -1,0 +1,28 @@
+.page[data-v-0ae41366]{
+	background:url(../img/background.png);
+}
+p[data-v-0ae41366]{
+	text-align:justify;
+}
+.header[data-v-0ae41366]{
+	background:rgba(0,0,0,0);
+}
+.toolbar[data-v-0ae41366]{
+	background:rgba(63,0,0,0.5);
+}
+.toolbarTitle[data-v-0ae41366]{
+	text-align:center;
+	text-shadow: 0px 0px 8px rgba(255,191,191,0.5);
+}
+.backButton[data-v-0ae41366]{
+	position:absolute;
+}
+.howToPlay[data-v-0ae41366]{
+	text-align:center;
+}
+img[data-v-0ae41366]{
+	-o-object-fit:contain;
+	   object-fit:contain;
+	width:100%;
+	height:100%;
+}

@@ -1,0 +1,29 @@
+.page[data-v-296a1016]{
+	background:url(../img/background.png);
+}
+.q-item label[data-v-296a1016]{
+	width:100%;
+}
+.userPicture[data-v-296a1016]{
+	background-color:rgba(0,0,0,0);
+	text-align:center;
+	justify-content:center;
+}
+.userPicture label[data-v-296a1016]{
+	width:auto;
+}
+#newPicture[data-v-296a1016]{
+	width:0.1px;
+	height:0.1px;
+	opacity:0;
+	overflow:hidden;
+	position:absolute;
+	z-index:-1;
+}
+.emails[data-v-296a1016]{
+	flex-wrap:wrap;
+}
+.contactConsent[data-v-296a1016]{
+	color:white;
+	font-size:6pt;
+}

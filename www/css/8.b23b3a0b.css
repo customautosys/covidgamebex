@@ -1,0 +1,19 @@
+.page[data-v-da633b44]{
+	background:url(../img/background.png);
+}
+p[data-v-da633b44]{
+	text-align:justify;
+}
+.header[data-v-da633b44]{
+	background:rgba(0,0,0,0);
+}
+.toolbar[data-v-da633b44]{
+	background:rgba(63,0,0,0.5);
+}
+.toolbarTitle[data-v-da633b44]{
+	text-align:center;
+	text-shadow: 0px 0px 8px rgba(255,191,191,0.5);
+}
+.backButton[data-v-da633b44]{
+	position:absolute;
+}
