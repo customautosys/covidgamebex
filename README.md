@@ -8,3 +8,9 @@ I got this idea as my country is currently in a COVID-19 "circuit breaker". I th
 5. Select the folder in which you cloned the repo.
 6. A new button should appear in the toolbar.
 7. Click the button to create a new tab and play the game.
+## URLs for download
+- Android: https://play.google.com/store/apps/details?id=com.customautosys.viralgame
+- Web / desktop download: https://customautosys.com/covidgame
+- Chrome Web Store: https://chrome.google.com/webstore/detail/the-covid-19-game/bmchlajjghhhhbjicciaphnkbckekamk
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/the-covid-19-game
+- Snap: https://snapcraft.io/covidgame
